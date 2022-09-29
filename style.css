@@ -1,0 +1,30 @@
+body {
+    background-color:gainsboro
+}
+
+div {text-align:center}
+
+.topnav {
+background-color:black;
+height: 35px;
+overflow: hidden;
+  }
+  
+.topnav a {
+text-align: center;
+color: white;
+text-decoration: none;
+padding: 35px
+  }
+  
+.topnav a:hover {
+    background-color: white;
+    color: black;
+      }
+  
+.topnav a.active {
+    background-color: white;
+    color: black
+  }
+
+
